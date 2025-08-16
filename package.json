@@ -9,18 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-toast": "^1.1.5",
+    "@supabase/supabase-js": "^2.45.4",
+    "autoprefixer": "^10.4.19",
     "next": "14.2.5",
+    "postcss": "^8.4.41",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "@supabase/supabase-js": "^2.45.4",
-    "tailwindcss": "^3.4.7",
-    "postcss": "^8.4.41",
-    "autoprefixer": "^10.4.19",
-    "@radix-ui/react-toast": "^1.1.5"
+    "tailwindcss": "^3.4.7"
   },
   "devDependencies": {
-    "typescript": "^5.5.4",
+    "@types/react": "19.1.10",
     "eslint": "^8.57.0",
-    "eslint-config-next": "14.2.5"
+    "eslint-config-next": "14.2.5",
+    "typescript": "^5.5.4"
   }
 }
