@@ -1,0 +1,4 @@
+title,author,isbn,total_copies,tags
+The Pragmatic Programmer,Andrew Hunt; David Thomas,9780201616224,4,"software, craft"
+Clean Code,Robert C. Martin,9780132350884,5,"software, best-practices"
+Designing Data-Intensive Applications,Martin Kleppmann,9781449373320,3,"data, systems"
